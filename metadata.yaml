@@ -1,0 +1,23 @@
+_repo: Bailey-s-Dam_62052
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: III, George J. Castille
+    gutenberg_agent_id: '51748'
+    url: http://www.gutenberg.org/2009/agents/51748
+  - agent_name: Smith, Steven D.
+    gutenberg_agent_id: '51747'
+    url: http://www.gutenberg.org/2009/agents/51747
+description: ''
+gutenberg_issued: '2020-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bailey's Dam
+url: http://www.gutenberg.org/ebooks/62052
