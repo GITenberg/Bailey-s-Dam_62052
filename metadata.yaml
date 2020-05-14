@@ -1,5 +1,8 @@
 _repo: Bailey-s-Dam_62052
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62052-h/images/cover.jpg
 creator:
   authors:
   - agent_name: III, George J. Castille
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51747'
     url: http://www.gutenberg.org/2009/agents/51747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62052#Bailey-s-Dam
 gutenberg_issued: '2020-05-08'
 gutenberg_type: Text
 identifiers:
